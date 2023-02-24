@@ -14,4 +14,4 @@ which); first moves of the computer are in the center of the board (most likely 
 and so on... Whenever the computer hits a plane, it continues to hit all the neighboring cells (in random order), performing a DFS (Depth-First Search), a simulation
 of a stack being used to achieve that.
 
-The game can be played by running the file start.py
+The game can be played by running the file start.py. It is also capable of catching errors (user's invalid input) and it has its own exception classes.
