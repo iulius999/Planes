@@ -1,6 +1,6 @@
-from src.board.board import Board
-from src.game.game import Computer, Game
-from src.ui.ui import UI
+from board import Board
+from game import Computer, Game
+from ui import UI
 
 if __name__ == '__main__':
     human_board = Board()
