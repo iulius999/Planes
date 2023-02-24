@@ -1,6 +1,6 @@
 import unittest
 
-from src.board.board import Board
+from board import Board
 
 
 class TestBoard(unittest.TestCase):
