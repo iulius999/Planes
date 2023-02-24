@@ -1,7 +1,7 @@
 import random
 
-from src.board.board import Board
-from src.exceptions.exceptions import OutsideBoardError, PlaneOverlapError, AlreadyHitError
+from board import Board
+from exceptions import OutsideBoardError, PlaneOverlapError, AlreadyHitError
 
 
 class Computer:
