@@ -5,8 +5,8 @@ Planes is a board game in which each player draws 3 planes on his own 10x10 boar
 gives a response: miss, hit or dead, depending on whether there is a part of a plane on that cell or not. A plane is dead only if its head has been hit. The goal is to 
 'kill' all 3 planes of the opponent by hitting their heads. The winner is the first player who accomplishes this.
 
-The game has a console based user interface. It interacts with the user by waiting for him to enter commands: either the name of a cell, the orientation of a plane or
-what player takes the first hit. 
+The game has a console based user interface. It interacts with the user by giving him instructions to enter commands: either the name of a cell, the orientation of a
+plane or which player takes the first hit.
 
 It is a Computer vs. Human game. The computer strategy is designed in the following way: the planes are placed in a random manner (because placing the planes completely 
 random is already a good strategy itself; the planes could be exactly one near another, therefore it can be very hard for a human player to distinguish which plane is 
