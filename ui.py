@@ -1,7 +1,7 @@
 import time
 
-from src.exceptions.exceptions import OutsideBoardError, PlaneOverlapError, AlreadyHitError
-from src.game.game import Game
+from exceptions import OutsideBoardError, PlaneOverlapError, AlreadyHitError
+from game import Game
 
 
 class UI:
