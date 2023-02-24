@@ -2,7 +2,7 @@
 Planes, Board Game (similar to Battleships) - Python implementation using Object-Oriented Programming and Layered Architecture
 
 Planes is a board game in which each player draws 3 planes on his own 10x10 board. Players take turns by saying the name of a cell (for example E9) and the other player 
-gives a response: miss, hit or dead, depending of whether there is a part of a plane on that cell or not. A plane is dead only if its head has been hit. The goal is to 
+gives a response: miss, hit or dead, depending on whether there is a part of a plane on that cell or not. A plane is dead only if its head has been hit. The goal is to 
 'kill' all 3 planes of the opponent. The winner is the first player who accomplishes this.
 
 The game has a console based user interface. It interacts with the user by waiting for him to enter commands: either the name of a cell, the orientation of a plane or
